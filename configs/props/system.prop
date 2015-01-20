@@ -20,6 +20,7 @@ sys.fp.miui.token=0
 persist.sys.fuse.passthrough.enable=true
 
 # Graphics
+ro.qualcomm.cabl=0
 debug.sdm.support_writeback=0
 debug.enable.sglscale=1
 debug.mdpcomp.logs=0
