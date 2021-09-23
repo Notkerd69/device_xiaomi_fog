@@ -20,6 +20,10 @@ sys.fp.miui.token=0
 persist.sys.fuse.passthrough.enable=true
 
 # Graphics
+debug.sdm.support_writeback=0
+debug.enable.sglscale=1
+debug.mdpcomp.logs=0
+debug.sf.recomputecrop=0
 debug.sf.disable_client_composition_cache=1
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
