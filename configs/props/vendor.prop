@@ -61,6 +61,7 @@ ro.crypto.volume.metadata.method=dm-default-key
 
 # Displey
 debug.sf.enable_transaction_tracing=false
+debug.sf.predict_hwc_composition_strategy=0
 debug.sf.disable_backpressure=1
 debug.sf.layer_caching_active_layer_timeout_ms=1000
 debug.hwui.skia_atrace_enabled=false
