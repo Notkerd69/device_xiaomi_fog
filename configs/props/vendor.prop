@@ -133,6 +133,9 @@ persist.vendor.sensors.enable.rt_task=false
 persist.vendor.sensors.hal_trigger_ssr=false
 persist.vendor.sensors.support_direct_channel=false
 
+# SPU
+vendor.gatekeeper.disable_spu=true
+
 # Thermal
 vendor.sys.thermal.data.path=/data/vendor/thermal/
 
