@@ -22,6 +22,9 @@ persist.sys.fuse.passthrough.enable=true
 # Graphics
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
+debug.sf.disable_hwc_overlays=1
+debug.sf.enable_hwc_vds=0
+dev.pm.dyn_samplingrate=1
 
 # LMK
 ro.lmk.kill_timeout_ms=100
