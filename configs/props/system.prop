@@ -19,6 +19,10 @@ sys.fp.miui.token=0
 # FUSE passthrough
 persist.sys.fuse.passthrough.enable=true
 
+# Graphics
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
+
 # LMK
 ro.lmk.kill_timeout_ms=100
 ro.lmk.use_minfree_levels=true
