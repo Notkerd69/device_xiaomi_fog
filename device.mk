@@ -123,8 +123,7 @@ USE_DEX2OAT_DEBUG := false
 TARGET_USE_QCOM_OFFSET := true
 
 PRODUCT_PACKAGES += \
-    android.frameworks.displayservice@1.0.vendor \
-    libdisplayconfig.qti
+    android.frameworks.displayservice@1.0.vendor
 
 # DRM
 PRODUCT_PACKAGES += \
