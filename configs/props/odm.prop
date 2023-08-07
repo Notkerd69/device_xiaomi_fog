@@ -5,5 +5,9 @@ vendor.audio.feature.dynamic_ecns.enable=false
 vendor.audio.hw.aac.encoder=false
 vendor.audio.offload.buffer.size.kb=256
 
+# Display
+vendor.display.disable_layer_stitch=1
+vendor.display.enable_rounded_corner=0
+
 # Media
 media.settings.xml=/vendor/etc/media_profiles_khaje.xml
