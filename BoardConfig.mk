@@ -114,7 +114,8 @@ BOARD_KERNEL_CMDLINE += \
     msm_rtb.filter=0x237 \
     service_locator.enable=1 \
     swiotlb=2048 \
-    kpti=off
+    kpti=off \
+    cgroup_disable=pressure
 
 BOARD_BOOT_HEADER_VERSION := 3
 BOARD_KERNEL_SEPARATED_DTBO := true
