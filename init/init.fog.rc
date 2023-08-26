@@ -45,3 +45,6 @@ on early-boot
 
 on property:ro.boot.hwname=*
     setprop ro.boot.product.hardware.sku ${ro.boot.hwname}
+
+    # Enable suspend to RAM
+    write /sys/power/mem_sleep "deep"
