@@ -17,7 +17,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
-BUILD_FINGERPRINT := Redmi/fog_global/fog:13/TKQ1.221114.001/V14.0.2.0.TGEMIXM:user/release-keys
+BUILD_FINGERPRINT := Redmi/fog_global/fog:13/TKQ1.221114.001/V14.0.3.0.TGEMIXM:user/release-keys
 
 # Inherit some RisingOSS stuff.
 TARGET_BOOT_ANIMATION_RES := 720
