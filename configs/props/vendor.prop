@@ -118,7 +118,6 @@ persist.vendor.radio.process_sups_ind=1
 persist.vendor.radio.report_codec=1
 persist.vendor.radio.snapshot_enabled=1
 persist.vendor.radio.snapshot_timer=5
-rild.libpath=/vendor/lib64/libril-qc-hal-qmi.so
 ro.vendor.radio.features_common=3
 sys.vendor.shutdown.waittime=500
 
@@ -145,9 +144,6 @@ vendor.gatekeeper.disable_spu=true
 
 # Thermal
 vendor.sys.thermal.data.path=/data/vendor/thermal/
-
-# Time-services
-persist.timed.enable=true
 
 # WLAN
 persist.vendor.data.iwlan.enable=true

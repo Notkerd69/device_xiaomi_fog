@@ -7,3 +7,9 @@ bluetooth.hardware.power.tx_cur_ma=93
 # Charger
 persist.vendor.quick.charge=1
 ro.charger.disable_init_blank=true
+
+# Radio
+rild.libpath=/vendor/lib64/libril-qc-hal-qmi.so
+
+# Time-services
+persist.timed.enable=true
