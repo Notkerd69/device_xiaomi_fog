@@ -8,6 +8,9 @@ bluetooth.hardware.power.tx_cur_ma=93
 persist.vendor.quick.charge=1
 ro.charger.disable_init_blank=true
 
+# FUSE passthrough
+persist.sys.fuse.passthrough.enable=true
+
 # Radio
 rild.libpath=/vendor/lib64/libril-qc-hal-qmi.so
 
