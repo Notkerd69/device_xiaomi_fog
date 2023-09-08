@@ -32,6 +32,7 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/camera \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/charger \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/common \
+    device/xiaomi/fog/sepolicy/vendor/xiaomi/dolby \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/fingerprint \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/ir \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/last_kmsg \
