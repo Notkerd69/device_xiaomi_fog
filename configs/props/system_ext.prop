@@ -7,7 +7,6 @@ persist.vendor.btstack.enable.swbpm=true
 persist.vendor.service.bdroid.soc.alwayson=true
 ro.bluetooth.emb_wp_mode=false
 ro.bluetooth.wipower=false
-persist.vendor.btstack.enable.lpa=true
 persist.vendor.btstack.enable.twsplus=true
 
 # Media
