@@ -74,6 +74,7 @@ vendor.display.idle_time_inactive=0
 vendor.display.qdcm.mode_combine=2
 vendor.display.svi.config=1
 vendor.display.svi.config_path=/vendor/etc/SVIConfig.xml
+vendor.display.use_smooth_motion=1
 
 # DRM
 drm.service.enabled=true
