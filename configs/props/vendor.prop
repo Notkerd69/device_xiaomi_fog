@@ -149,3 +149,9 @@ vendor.sys.thermal.data.path=/data/vendor/thermal/
 persist.vendor.data.iwlan.enable=true
 ro.hardware.wlan.dbs=2
 ro.telephony.iwlan_operation_mode=legacy
+
+# App launch prefetching (IORapd)
+ro.iorapd.enable=false
+iorapd.perfetto.enable=false
+iorapd.readahead.enable=false
+persist.device_config.runtime_native_boot.iorap_readahead_enable=false
