@@ -84,6 +84,7 @@ persist.vendor.dpmhalservice.enable=1
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
 
 # Graphics
+service.sf.prime_shader_cache=0
 debug.sf.phase_offset_threshold_for_next_vsync_ns=6100000
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
