@@ -60,7 +60,6 @@ ro.crypto.volume.filenames_mode=aes-256-cts
 ro.crypto.volume.metadata.method=dm-default-key
 
 # Displey
-debug.cpurend.vsync=false
 debug.sf.enable_transaction_tracing=false
 debug.sf.predict_hwc_composition_strategy=0
 debug.sf.disable_backpressure=1
@@ -68,7 +67,6 @@ debug.sf.layer_caching_active_layer_timeout_ms=1000
 debug.hwui.skia_atrace_enabled=false
 ro.vendor.display.sensortype=2
 ro.vendor.display.svi=1
-ro.hwui.render_ahead=15
 vendor.display.idle_time=0
 vendor.display.idle_time_inactive=0
 vendor.display.qdcm.mode_combine=2
