@@ -89,9 +89,6 @@ ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
 ro.opengles.version=196610
 
-# GFX
-ro.config.avoid_gfx_accel=true
-
 # Incremental FS
 ro.incremental.enable=yes
 
