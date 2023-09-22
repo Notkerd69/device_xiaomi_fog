@@ -2,7 +2,6 @@
 persist.vendor.service.bdroid.soc.alwayson=true
 
 # Media
-debug.stagefright.omx_default_rank=0
 media.aac_51_output_enabled=true
 media.stagefright.enable-aac=true
 media.stagefright.enable-fma2dp=true
