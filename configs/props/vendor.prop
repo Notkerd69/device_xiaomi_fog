@@ -98,9 +98,6 @@ ro.incremental.enable=yes
 # HWUI
 ro.hwui.render_ahead=10
 
-# Keyguard
-persist.wm.enable_remote_keyguard_animation=0
-
 # NFC
 ro.hardware.nfc_nci=pn8x
 ro.vendor.se.type=HCE,UICC
