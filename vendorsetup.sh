@@ -30,6 +30,10 @@ git clone https://github.com/parixxshit/android_packages_resources_devicesetting
 #sync vendor_qcom_opensource_audio
 git clone https://github.com/PixelExperience/vendor_qcom_opensource_audio.git vendor/qcom/opensource/audio
 
+#sync vendor_qcom_opensource_usb
+rm -rf vendor/qcom/opensource/usb
+git clone https://github.com/PixelExperience/vendor_qcom_opensource_usb.git vendor/qcom/opensource/usb
+
 #sync miui-camera
 git clone https://github.com/PixelExperience-Devices/device_xiaomi_sm6225-common-miuicamera.git device/xiaomi/sm6225-common-miuicamera
 git clone https://gitlab.pixelexperience.org/android/vendor-blobs/vendor_xiaomi_sm6225-common-miuicamera.git vendor/xiaomi/sm6225-common-miuicamera
