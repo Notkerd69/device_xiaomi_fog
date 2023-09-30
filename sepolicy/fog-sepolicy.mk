@@ -26,20 +26,12 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
 
 # Xiaomi and (Device specific) Sepolicy
 BOARD_VENDOR_SEPOLICY_DIRS += \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/audio-sensors \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/battery \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/bluetooth \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/camera \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/charger \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/common \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/fingerprint \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/ir \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/last_kmsg \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/light \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/modem \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/nfc \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/power \
     device/xiaomi/fog/sepolicy/vendor/xiaomi/power_supply \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/thermald \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/usb \
-    device/xiaomi/fog/sepolicy/vendor/xiaomi/vibrator
+    device/xiaomi/fog/sepolicy/vendor/xiaomi/usb

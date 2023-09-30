@@ -205,6 +205,7 @@ TARGET_SCREEN_DENSITY := 320
 VENDOR_SECURITY_PATCH := $(PLATFORM_SECURITY_PATCH)
 
 # Sepolicy
+include device/xiaomi/sepolicy/SEPolicy.mk
 include device/xiaomi/fog/sepolicy/fog-sepolicy.mk
 
 # Treble flag
