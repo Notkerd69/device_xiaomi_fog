@@ -17,7 +17,6 @@ COMMON_PATH  := device/qcom/common
 
 # A/B
 AB_OTA_UPDATER := true
-BOARD_BUILD_SYSTEM_ROOT_IMAGE := false
 BOARD_USES_RECOVERY_AS_BOOT := true
 
 AB_OTA_PARTITIONS += \
