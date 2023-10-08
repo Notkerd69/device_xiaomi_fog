@@ -212,7 +212,6 @@ PRODUCT_PACKAGES += \
     FogSettingsOverlay \
     FogSystemUIOverlay \
     FogWifiOverlay \
-    WifiCommon \
     SettingsProvider220333QAGOverlay \
     SettingsProvider220333QLOverlay \
     SettingsProvider220333QBIOverlay \
