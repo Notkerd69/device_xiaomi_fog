@@ -16,6 +16,9 @@ persist.mm.enable.prefetch=true
 # Netmgr
 persist.data.netmgrd.qos.enable=true
 
+# Privapp-permissions
+ro.control_privapp_permissions=log
+
 # Radio
 ro.telephony.block_binder_thread_on_incoming_calls=false
 
