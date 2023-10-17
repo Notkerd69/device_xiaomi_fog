@@ -51,8 +51,5 @@ ro.netflix.signup=1
 # NFC
 ro.nfc.port=I2C
 
-# Storage.xml moment
-persist.sys.binary_xml=false
-
 # Zygote
 zygote.critical_window.minute=10
