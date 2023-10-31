@@ -143,9 +143,7 @@ vendor.gatekeeper.disable_spu=true
 vendor.sys.thermal.data.path=/data/vendor/thermal/
 
 # WLAN
-persist.vendor.data.iwlan.enable=true
-ro.hardware.wlan.dbs=2
-ro.telephony.iwlan_operation_mode=legacy
+ro.hardware.wlan.dbs=0
 
 # App launch prefetching (IORapd)
 ro.iorapd.enable=false
