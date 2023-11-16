@@ -93,7 +93,7 @@ on boot
     chown system system /sys/class/ant_class/ant_state
     chown system system /sys/class/ant_div_class/ant_div_state
 
-on charger
+on property:init.svc.vendor.charger=running
     start mi_thermald
     chown system system /sys/class/backlight/panel0-backlight/brightness
 
