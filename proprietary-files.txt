@@ -908,9 +908,6 @@ vendor/lib64/libperipheral_client.so|371cc38073c9d9bf8614f992e57a5a9891691191
 vendor/lib/android.hardware.secure_element@1.0-impl.so|0947cc1c37e9155bb39de775e8cd03188369935a
 vendor/lib64/android.hardware.secure_element@1.0-impl.so|b206e48000c62c62bfda7b6b004c5ec0605fd481
 
-# Power-off charging daemon - from FOG MIUI
-system/bin/charger:system/bin/chargeonlymode|8f26fadb55ac3bb2e6f69340b4c14348b6c11f0d
-
 # QCC - from LA.UM.9.15.2.r1-07000-KAMORTA.QSSI-13.0
 vendor/bin/hw/vendor.qti.hardware.qccvndhal@1.0-service|b49b4964ca1b391921b05d0350479bae517a75ae
 vendor/etc/init/vendor.qti.hardware.qccvndhal@1.0-service.rc|afeb332a4750a11587658fcc9a75a27f63bbccdd
